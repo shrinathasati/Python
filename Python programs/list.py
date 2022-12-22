@@ -1,0 +1,11 @@
+lst=[0,2,1,'sanu','nandkishor']
+print(lst[0])
+print(lst[1])
+print(lst[2])
+print(lst[3])
+print(lst[4])
+print(lst[:])
+print(lst[0:])
+print(lst[:5])
+print(lst[1:3])
+print(lst[1:4:2])
